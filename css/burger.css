@@ -1,0 +1,19 @@
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+ul li {
+    width: 400px;
+    height: 30px;
+    background-color: rgb(65, 160, 214);
+    font-size: larger;
+    font-weight: 800;
+}
+
+ol li {
+    width: 1200px;
+    height: 50px;
+    background-color: rgb(55, 219, 118);
+}
