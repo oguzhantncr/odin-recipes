@@ -7,14 +7,20 @@ img {
 ul li {
     width: 400px;
     height: 30px;
-    background-color: rgb(65, 160, 214);
+    margin-bottom: 10px;
+    padding-left: 8px;
+    padding-top: 8px;
+    background-color: rgb(133, 183, 212);
     font-size: larger;
     font-weight: 800;
 }
 
 ol li {
-    width: 1400px;
-    height: 30px;
-    background-color: rgb(55, 219, 118);
+    width: 1350px;
+    height: 25px;
+    background-color: rgb(105, 179, 133);
     font-weight: 800;
+    margin-bottom: 8px;
+    padding-left: 8px;
+    padding-top: 8px;
 }
